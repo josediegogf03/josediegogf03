@@ -9,9 +9,9 @@
 
 - 👀 I’m interested in sports🚵, cars🏎️, airplanes✈️, and mathematics🎲
 
-- 🗺️ I’m currently learning French, German, Italian, Portuguese, Esperanto, and Russian
+- 🗺️ I’m currently learning French, German, Italian, Portuguese, Esperanto, Greek, Arabic, Korean, and Russian
   
-- 🎓 I'm also currently learning Python, Java and C++
+- 🎓 I'm also currently learning Python, Java, C and C++
 
 - 📫 How to reach me josediego.gf03@gmail.com
 
